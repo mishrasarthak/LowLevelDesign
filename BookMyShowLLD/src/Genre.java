@@ -1,0 +1,20 @@
+public enum Genre {
+    ACTION,
+    COMEDY,
+    DRAMA,
+    HORROR,
+    THRILLER,
+    ROMANCE,
+    SCIFI,
+    FANTASY,
+    DOCUMENTARY,
+    ANIMATION,
+    ADVENTURE,
+    MYSTERY,
+    CRIME,
+    MUSICAL,
+    BIOGRAPHY,
+    FAMILY,
+    WAR,
+    WESTERN
+}
